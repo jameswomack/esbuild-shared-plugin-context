@@ -1,7 +1,5 @@
-const contextSymbol = Symbol.for('__tectonic_context__')
-
 const SharedESBuildPluginData = {
-    [contextSymbol]: {
+    ['__our_context__']: {
 
     }
 }
