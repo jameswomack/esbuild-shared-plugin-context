@@ -1,0 +1,26 @@
+{
+  "name": "esbuild-shared-plugin-context",
+  "version": "1.0.0-womack.0",
+  "description": "",
+  "private": "true",
+  "main": "2.js",
+  "scripts": {
+    "start": "node 2.js",
+    "test": "node 2.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jameswomack/esbuild-shared-plugin-context.git"
+  },
+  "keywords": [
+    "esbuild",
+    "context",
+    "plugin"
+  ],
+  "author": "James Womack (@james_womack)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jameswomack/esbuild-shared-plugin-context/issues"
+  },
+  "homepage": "https://github.com/jameswomack/esbuild-shared-plugin-context#readme"
+}
